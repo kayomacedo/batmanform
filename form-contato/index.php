@@ -1,3 +1,9 @@
+<?php
+
+    include ('config.php');
+    Mysql:: instagram(); 
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
